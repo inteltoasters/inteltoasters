@@ -16,6 +16,10 @@ public class inteltoasters {
     System.out.println("OpenPGP public key:");
     System.out.println("inteltoasters@getyomail.cc");
     System.out.println("https://keys.openpgp.org/vks/v1/by-fingerprint/77253C265304FFF4428471114EC1E658DAE35EE5");
+
+    System.out.println("---");
+
+    System.out.println("- Team's GitHub account: @KryteTeam");
   }
 }
 ```
