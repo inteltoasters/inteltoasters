@@ -1,5 +1,5 @@
 ```java
-static public class inteltoasters {
+public class inteltoasters {
   static public void main(String[] args) {
     System.out.println("Hello, im inteltoasters!");
 
